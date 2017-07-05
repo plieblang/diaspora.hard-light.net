@@ -1,0 +1,91 @@
+body {
+	width: 1024px;
+	margin: auto;
+	color: #aaaeaa;
+	background-color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+header {
+	background-image: url(../images/r1_logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: -50px;
+}
+
+nav * {
+	display: inline;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	height: 300px;
+	flex: 1;
+	font-size: 15px;
+}
+
+nav a {
+	height: 15px;
+}
+
+aside {
+	display: flex;
+	justify-content: flex-end;
+	flex: 1;
+}
+
+a:link {
+	color: #fbbb58;
+}
+
+a:visited {
+	color: #b52a10;
+}
+
+a:focus {
+	color: #fbbb58;
+}
+
+a:hover {
+	color: #fbbb58;
+}
+
+a:active {
+	color: #b52a10;
+}
+
+h1 {
+	color: transparent;
+}
+
+h2, h3 {
+	text-align: center;
+}
+
+samp, kbd {
+	color: green;
+}
+
+footer {
+	font-size: 80%;
+	margin-top: 40px;
+}
+
+.centertext {
+	text-align: center;
+}
+
+.wallpaper {
+	position: static;
+	display: block;
+	margin: auto;
+}
+
+.screenshot {
+	width: 800px;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}
