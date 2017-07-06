@@ -76,13 +76,22 @@ footer {
 }
 
 .wallpaper {
-	position: static;
 	display: block;
 	margin: auto;
 }
 
 .screenshot {
 	width: 800px;
+}
+
+.promoimage {
+	width: 800px;
+	display: block;
+	margin: auto;
+}
+
+.downloadbtn {
+	font-size: 30px;
 }
 
 iframe {
