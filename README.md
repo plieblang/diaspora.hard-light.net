@@ -1,2 +1,2 @@
 # diaspora.hard-light.net
-Beta website
+Website for BSG space sim
