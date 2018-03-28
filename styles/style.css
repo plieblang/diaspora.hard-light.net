@@ -4,7 +4,7 @@ body {
 	color: #aaaeaa;
 	background-color: black;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
+	font-size: 14px;
 }
 
 header {
@@ -21,11 +21,11 @@ nav * {
 	justify-content: center;
 	height: 300px;
 	flex: 1;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 nav a {
-	height: 15px;
+	height: 20px;
 }
 
 aside {
@@ -86,6 +86,11 @@ footer {
 
 .promoimage {
 	width: 800px;
+	display: block;
+	margin: auto;
+}
+
+.knossosbtn {
 	display: block;
 	margin: auto;
 }
